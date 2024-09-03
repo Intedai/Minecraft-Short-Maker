@@ -1,4 +1,4 @@
 pillow==10.2.0
 moviepy==1.0.3
 selenium==4.16.0
-
+opencv-python==4.10.0.84
